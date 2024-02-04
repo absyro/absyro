@@ -6,9 +6,9 @@
   "author": "Amir Farzamnia",
   "scripts": {
     "preinstall": "npm install pm2@latest -g",
-    "serve": "cd site && vue-cli-service serve",
-    "build": "cd site && vue-cli-service build",
-    "format": "prettier server.js docs site/public site/src -w -c"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "format": "prettier docs public src -w -c"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
