@@ -1,11 +1,8 @@
 # Build files
-site/dist/
+dist/
 
 # Dependency directories
 node_modules/
 
 # Lock files
 package-lock.json
-
-# .env file
-.env

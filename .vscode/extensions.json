@@ -7,6 +7,9 @@
     "zh9528.file-size",
     "redhat.vscode-yaml",
     "EditorConfig.EditorConfig",
-    "jock.svg"
+    "jock.svg",
+    "Vue.volar",
+    "bradlc.vscode-tailwindcss",
+    "pranaygp.vscode-css-peek"
   ]
 }

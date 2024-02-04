@@ -1,3 +1,1 @@
-module.exports = require('@vue/cli-service').defineConfig({
-  transpileDependencies: true
-});
+module.exports = require('@vue/cli-service').defineConfig();
