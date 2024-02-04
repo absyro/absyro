@@ -8,15 +8,15 @@ export default createRouter({
     routes: [
         {
             path: '/',
-            component: () => HomeView
+            component: async () => await HomeView
         },
         {
             path: '/about',
-            component: () => AboutView
+            component: async () => await AboutView
         },
         {
             path: '/contact',
-            component: () => ContactView
+            component: async () => await ContactView
         }
     ]
 });

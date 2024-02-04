@@ -1,5 +1,5 @@
 # Build files
-dist/
+site/dist/
 
 # Dependency directories
 node_modules/
