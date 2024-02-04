@@ -1,0 +1,23 @@
+<!--
+  The SVG images in this document are the property of absyro.com.
+  All rights reserved. Unauthorized use, reproduction, or distribution
+  is strictly prohibited.
+
+  © 2024 Absyro Company.
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+	<linearGradient gradientUnits="userSpaceOnUse" id="gradient1" x1="229.2092" y1="107.1485" x2="354.7132" y2="409.7446">
+		<stop stop-color="#3ed997" offset="0%"/>
+		<stop stop-color="#009edb" offset="100%"/>
+	</linearGradient>
+	<linearGradient gradientUnits="userSpaceOnUse" id="gradient2" x1="457.5295" y1="306.6396" x2="131.6843" y2="413.716">
+		<stop stop-color="#3ed997" offset="23.29%"/>
+		<stop stop-color="#10adca" offset="61.94%"/>
+		<stop stop-color="#009edb" offset="78.28%"/>
+	</linearGradient>
+	<polygon fill="url(#gradient1)" points="240.3,263.9 194.4,191.4 73.5,412.5 168.3,412.5"/>
+	<polygon fill="url(#gradient1)" points="369,308.7 249.1,90 199.9,181.6 280,308.7"/>
+	<polygon fill="url(#gradient2)" points="225,319.2 179.5,412.5 426.5,412.5 375,319.5"/>
+	<polygon fill="url(#gradient2)" points="269,308.6 229.2,308.7 246.8,272.3"/>
+</svg>

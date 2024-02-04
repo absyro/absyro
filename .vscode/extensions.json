@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "PKief.material-icon-theme",
+    "zh9528.file-size",
+    "redhat.vscode-yaml",
+    "EditorConfig.EditorConfig",
+    "jock.svg"
+  ]
+}
