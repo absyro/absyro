@@ -1,3 +1,3 @@
 module.exports = {
-	content: ['**/*.{vue,html}']
+  content: ['**/*.{vue,html}']
 };
