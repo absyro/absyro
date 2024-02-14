@@ -4,7 +4,7 @@ Thank you for your interest in contributing to project! We appreciate your help 
 
 ## Getting Started
 
-Before you start contributing, please make sure you have read the [README.md](./readme.md) file to understand the project's goals, structure, and development guidelines.
+Before you start contributing, please make sure you have read the [README.md](readme.md) file to understand the project's goals, structure, and development guidelines.
 
 ## How to Contribute
 
@@ -59,7 +59,7 @@ Check the [issue tracker](https://github.com/absyro/absyro-website/issues) for a
 
 ## Code of Conduct
 
-Please follow our [Code of Conduct](./code_of_conduct.md) in all interactions.
+Please follow our [Code of Conduct](code_of_conduct.md) in all interactions.
 
 ## License
 

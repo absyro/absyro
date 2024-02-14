@@ -17,7 +17,7 @@
         <div class="mx-auto text-center flex flex-col md:flex-row items-center justify-between gap-4">
             <p class="border-b border-zinc-900 pb-4 md:border-0">&copy; 2024 Absyro - All rights reserved.</p>
             <div class="flex items-center gap-2">
-                <a target="_blank" href="https://github.com/absyro/absyro-website"><font-awesome-icon icon="fab fa-github" size="lg" class="hover:text-teal-400 duration-200" /></a>
+                <a target="_blank" href="https://github.com/absyro"><font-awesome-icon icon="fab fa-github" size="lg" class="hover:text-teal-400 duration-200" /></a>
             </div>
         </div>
     </footer>
