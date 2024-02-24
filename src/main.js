@@ -11,3 +11,21 @@ import { faAddressCard, faArrowUpRightFromSquare } from '@fortawesome/free-solid
 library.add([faAddressCard, faGithub, faArrowUpRightFromSquare]);
 
 createApp(App).use(router).component('font-awesome-icon', FontAwesomeIcon).mount('#app');
+
+const googleTrackingID = 'G-YXSV34DMHS';
+
+document.head.appendChild(
+    Object.assign(document.createElement('script'), {
+        async: true,
+        src: 'https://googletagmanager.com/gtag/js?id=' + googleTrackingID
+    })
+);
+
+window.dataLayer ||= [];
+
+gtag('js', new Date());
+gtag('config', googleTrackingID);
+
+function gtag() {
+    dataLayer.push(arguments);
+}

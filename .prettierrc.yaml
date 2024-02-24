@@ -10,6 +10,9 @@ experimentalTernaries: true
 
 # Overrided config
 overrides:
-  - files: ["*.md"]
+  - files: ["*.md", "*.json"]
     options:
       tabWidth: 2
+  - files: ["*.css"]
+    options:
+      singleQuote: false
