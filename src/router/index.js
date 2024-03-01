@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import ContactView from '../views/ContactView.vue';
 import HomeView from '../views/HomeView.vue';
 
 export default createRouter({
@@ -8,10 +7,6 @@ export default createRouter({
         {
             path: '/',
             component: async () => await HomeView
-        },
-        {
-            path: '/contact',
-            component: async () => await ContactView
         }
     ]
 });

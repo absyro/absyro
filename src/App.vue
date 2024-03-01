@@ -4,10 +4,6 @@
             <router-link active-class="border-teal-400" to="/" class="border-r border-slate-200 pr-6 duration-200">
                 <img alt="Logo" draggable="false" loading="lazy" src="./assets/logo.svg" width="50" />
             </router-link>
-            <span class="flex items-center gap-3">
-                <font-awesome-icon icon="fas fa-address-card" />
-                <router-link active-class="border-b border-teal-400" to="contact" class="hover:text-teal-400 duration-200">Contact</router-link>
-            </span>
         </div>
     </nav>
     <div class="py-4 px-4 md:px-8">
