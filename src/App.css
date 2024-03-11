@@ -1,6 +1,6 @@
-@import "tailwindcss/base";
-@import "tailwindcss/utilities";
 @import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/base";
 
 @font-face {
     font-family: "Cairo";
@@ -156,7 +156,7 @@
 }
 
 * {
-    font-family: Cairo, sans-serif;
+    font-family: "Cairo", sans-serif;
 }
 
 .pace {

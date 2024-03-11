@@ -6,7 +6,11 @@ export default createRouter({
     routes: [
         {
             path: '/',
-            component: async () => await HomeView
+            component: HomeView
+        },
+        {
+            path: '/:pathMatch(.*)*',
+            redirect: '/'
         }
     ]
 });
