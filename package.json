@@ -1,9 +1,9 @@
 {
   "name": "absyro",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "private": true,
-  "description": "Absyro Company's Official Website",
-  "author": "Amir Farzamnia",
+  "description": "Absyro - Official Website",
+  "author": "Absyro Company",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
