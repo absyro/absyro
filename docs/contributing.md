@@ -13,7 +13,7 @@ Before you start contributing, please make sure you have read the [README.md](re
 2. Clone the forked repository to your local machine.
 
 ```bash
-git clone https://github.com/absyro/absyro-website.git && cd absyro-website
+git clone https://github.com/absyro/website.git && cd website
 ```
 
 3. Create a new branch for your feature or bug fix.
@@ -48,7 +48,7 @@ Make sure your changes do not break existing functionality. If applicable, provi
 
 ## Issue Tracking
 
-Check the [issue tracker](https://github.com/absyro/absyro-website/issues) for any open issues or create a new one before starting your work. Discuss your proposed changes with the maintainers and other contributors.
+Check the [issue tracker](https://github.com/absyro/website/issues) for any open issues or create a new one before starting your work. Discuss your proposed changes with the maintainers and other contributors.
 
 ## Pull Request Guidelines
 
