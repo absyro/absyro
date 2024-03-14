@@ -7,7 +7,7 @@
             </div>
             <hr class="my-4 border-zinc-900" />
             <p class="mb-8">Bot Studio is a platform that enables you to create chatbots without any coding skills. You can use its free and unlimited tools to design and manage your chatbots. Whether you need a chatbot for customer service, entertainment, or education, you can build it with Bot Studio in a few simple steps.</p>
-            <a href="https://botstudioo.com" class="text-blue-500 hover:underline"><font-awesome-icon icon="arrow-up-right-from-square" class="me-2" />Try Bot Studio for free</a>
+            <a href="https://www.botstudioo.com" class="text-blue-500 hover:underline"><font-awesome-icon icon="arrow-up-right-from-square" class="me-2" />Try Bot Studio for free</a>
         </div>
     </div>
 </template>
