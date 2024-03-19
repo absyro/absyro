@@ -9,6 +9,7 @@
     "jock.svg",
     "Vue.volar",
     "bradlc.vscode-tailwindcss",
-    "pranaygp.vscode-css-peek"
+    "pranaygp.vscode-css-peek",
+    "github.vscode-github-actions"
   ]
 }
