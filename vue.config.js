@@ -1,3 +1,1 @@
-module.exports = require('@vue/cli-service').defineConfig({
-    publicPath: '/website/'
-});
+module.exports = require('@vue/cli-service').defineConfig();
