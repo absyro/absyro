@@ -1,13 +1,13 @@
 {
   "name": "absyro",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "private": true,
-  "description": "Absyro - Official Website",
+  "description": "Website of Absyro Company",
   "author": "Absyro Company",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "format": "prettier docs public src -w -c"
+    "format": "prettier public src -w -c"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
@@ -21,8 +21,8 @@
   "devDependencies": {
     "@vue/cli-plugin-router": "~5.0.8",
     "@vue/cli-service": "~5.0.8",
-    "autoprefixer": "^10.4.18",
-    "postcss": "^8.4.36",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
     "prettier": "^3.2.5",
     "tailwindcss": "^3.4.1"
   },
