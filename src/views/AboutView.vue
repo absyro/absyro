@@ -7,7 +7,5 @@
         <p>At Absyro, we support the growth of the global tech community by making most of our products and services open-source. While some may initially be closed due to security and marketing considerations, we aim to make all our products open-source over time.</p>
         <p>All our open-source projects can be found on <a class="text-teal-400 hover:underline" href="https://github.com/absyro">Absyro's GitHub</a> page. The licensing for these projects varies based on our discretion.</p>
         <p>Absyro is more than just a brand - it's a community powered by people. We're proud to give back by donating a portion of our income to charitable causes.</p>
-        <h2 class="text-2xl text-slate-400 my-4">Location</h2>
-        <p>At present, Absyro does not have a physical location or official office. We will soon establish our official premises.</p>
     </div>
 </template>
