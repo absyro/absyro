@@ -4,4 +4,8 @@
         <loc>https://absyro.com</loc>
 		<changefreq>monthly</changefreq>
     </url>
+    <url>
+        <loc>https://absyro.com/about</loc>
+		<changefreq>monthly</changefreq>
+    </url>
 </urlset>
