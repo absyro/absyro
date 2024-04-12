@@ -5,27 +5,27 @@
 @import "tailwindcss/base";
 
 * {
-    font-family: "Barlow", sans-serif;
-    color-scheme: dark;
+  font-family: "Barlow", sans-serif;
+  color-scheme: dark;
 }
 
 .pace {
-    pointer-events: none;
-    user-select: none;
+  pointer-events: none;
+  user-select: none;
 }
 .pace.pace-inactive {
-    display: none;
+  display: none;
 }
 .pace .pace-progress {
-    background: #3ed997;
-    position: fixed;
-    z-index: 2000;
-    right: 100%;
-    width: 100%;
-    height: 1px;
-    top: 0;
+  background: #3ed997;
+  position: fixed;
+  z-index: 2000;
+  right: 100%;
+  width: 100%;
+  height: 1px;
+  top: 0;
 }
 
 ::selection {
-    color: #2dd4bf;
+  color: #2dd4bf;
 }

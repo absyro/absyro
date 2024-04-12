@@ -1,0 +1,8 @@
+.*ignore
+*.xml
+*.ico
+LICENSE
+*.png
+*.jp*g
+*.txt
+*.svg
