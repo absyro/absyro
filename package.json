@@ -15,8 +15,8 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/vue-fontawesome": "^3.0.6",
     "pace-js": "^1.2.4",
-    "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue": "^3.4.24",
+    "vue-router": "^4.3.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~5.0.8",
