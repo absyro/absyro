@@ -16,9 +16,7 @@
     "@fortawesome/vue-fontawesome": "^3.0.6",
     "pace-js": "^1.2.4",
     "vue": "^3.4.25",
-    "vue-router": "^4.3.2"
-  },
-  "devDependencies": {
+    "vue-router": "^4.3.2",
     "@vue/cli-plugin-router": "~5.0.8",
     "@vue/cli-service": "~5.0.8",
     "autoprefixer": "^10.4.19",
